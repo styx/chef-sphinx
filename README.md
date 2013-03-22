@@ -1,4 +1,4 @@
 chef-sphinx
 ===========
 
-chef-sphinx recipe
+Chef recipe for sphinx installation form source or repository
