@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: chef-sphinx
+# Cookbook Name:: sphinx
 # Recipe:: default
 #
 # Copyright 2013, Mikhail Pobolovets <styx.mp@gmail.com>
@@ -16,4 +16,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-include_recipe "chef-sphinx::source"
+include_recipe "sphinx::source"

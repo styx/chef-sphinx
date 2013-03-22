@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: chef-sphinx
+# Cookbook Name:: sphinx
 # Recipe:: source
 #
 # Copyright 2013, Mikhail Pobolovets <styx.mp@gmail.com>
