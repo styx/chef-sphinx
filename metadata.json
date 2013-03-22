@@ -1,0 +1,34 @@
+{
+  "version": "0.1.0",
+  "recipes": {
+    "sphinx": "Same as sphinx::source",
+    "sphinx::source": "Install Sphinx from source"
+  },
+  "groupings": {
+  },
+  "recommendations": {
+  },
+  "long_description": "",
+  "attributes": {
+  },
+  "suggestions": {
+  },
+  "dependencies": {
+    "build-essential": [],
+    "postgresql": [],
+    "mysql": []
+  },
+  "conflicting": {
+  },
+  "license": "Apache 2.0",
+  "providing": {
+  },
+  "maintainer": "Mikhail Pobolovets",
+  "name": "chef-sphinx",
+  "replacing": {
+  },
+  "platforms": {
+  },
+  "maintainer_email": "styx.mp@gmail.com",
+  "description": "Installs Sphinx search engine."
+}
